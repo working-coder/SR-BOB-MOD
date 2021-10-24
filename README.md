@@ -1,5 +1,5 @@
-#HEY, THANKS FOR CHECKING OUT MY SLIMERANCHER BOB MOD
-#IF YOU ARE READING THIS I ASSUME YOU EITHER WANT INSTALLATION INSTRUCTIONS OR JUST TO READ A BIT ABOUT IF AFTER SEEING MY REDDIT POST.
+# HEY, THANKS FOR CHECKING OUT MY SLIMERANCHER BOB MOD
+# IF YOU ARE READING THIS I ASSUME YOU EITHER WANT INSTALLATION INSTRUCTIONS OR JUST TO READ A BIT ABOUT IF AFTER SEEING MY REDDIT POST.
 
 so if you are looking for installation guide, process is as follows(REQUIRES VERSION 0.3.4):
 
@@ -20,3 +20,4 @@ step 5 : paste and replace the file downloaded in step 1.
 step 6 : enjoy.
 
 if you encounter any issues post them in the issues tab, ill take a look and try to help. GL
+
